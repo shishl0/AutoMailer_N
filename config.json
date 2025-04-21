@@ -1,0 +1,14 @@
+{
+    "excel_path": "results.xlsx",
+    "header_row": 1,
+    "columns": {
+      "fio": "ФИО",
+      "email": "почта",
+      "result": "результат"
+    },
+    "needed_columns": ["ФИО", "почта", "результат"],
+    "subject": "Результат отбора в Nfactorial Incubator",
+    "templates_dir": "templates",
+    "log_file": "mailer.log",
+    "last_processed_row": 1
+  }

@@ -1,0 +1,5 @@
+pandas
+openpyxl
+watchdog
+jinja2
+python-dotenv
